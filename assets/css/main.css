@@ -1,6 +1,13 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Raleway:400,800,900");
 
+@font-face {
+	font-family: 'remind';
+	src: url('../webfonts/remind.ttf') format("truetype");
+	font-weight: normal;
+	font-style: normal;
+ }
+
 /*
 	Future Imperfect by HTML5 UP
 	html5up.net | @ajlkn
@@ -204,7 +211,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #3c3b3b;
-		font-family: "Raleway", Helvetica, sans-serif;
+		font-family: 'remind';
 		font-weight: 800;
 		letter-spacing: 0.25em;
 		line-height: 1.65;
