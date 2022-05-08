@@ -19,8 +19,8 @@ new Vue({
           {
             name: "Main Theme",
             artist: "Caladan Interactive",
-            cover: "/images/cover.jpg",
-            source: "/assets/music/soundtrack multimedia_1.mp3",
+            cover: "images/cover.jpg",
+            source: "assets/music/soundtrack multimedia_1.mp3",
             url: "https://adricerdeno.github.io/multimedia/index.html",
             favorited: false
           }
