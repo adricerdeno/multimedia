@@ -79,6 +79,12 @@ input, select, textarea {
 	appearance: none;
 }
 
+.imageizquierda {
+	width: 400px;
+	height: 200px;
+	object-fit: scale-down;
+}
+
 /* Basic */
 
 	@-ms-viewport {
@@ -3424,7 +3430,8 @@ input, select, textarea {
 		margin: 0 0 1em 0;
 		overflow: hidden;
 		position: relative;
-		width: 4em;
+		width: 3em;
+		height: 3em;
 	}
 
 		#intro .logo:before {
