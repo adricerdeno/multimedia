@@ -79,12 +79,6 @@ input, select, textarea {
 	appearance: none;
 }
 
-.imageizquierda {
-	width: 400px;
-	height: 200px;
-	object-fit: scale-down;
-}
-
 /* Basic */
 
 	@-ms-viewport {
